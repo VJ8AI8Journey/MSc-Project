@@ -1,0 +1,3 @@
+Read Me :
+
+Just run the File individually after installing the requirement.txt use python 3.11 evn

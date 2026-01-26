@@ -1,0 +1,5 @@
+Algorithm,Method,Annual Return,Annual Volatility,Sharpe Ratio,Calmar Ratio,Max Drawdown
+TD3,Baseline,25.82,17.89,1.38,1.32,-19.7%
+TD3,DJIA,15.21,14.92,1.02,0.93,-16.4%
+TD3,Meta-gradient tuning,16.41,14.56,1.12,1.12,-15.7%
+TD3,Multi-objective Optuna,14.78,15.42,0.97,0.91,-16.5%

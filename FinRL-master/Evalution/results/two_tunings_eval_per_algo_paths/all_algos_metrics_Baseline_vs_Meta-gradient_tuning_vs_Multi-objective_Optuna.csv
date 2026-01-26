@@ -1,0 +1,15 @@
+Algorithm,Method,Annual Return,Annual Volatility,Sharpe Ratio,Calmar Ratio,Max Drawdown
+(financial baseline),DJIA,15.21,14.92,1.02,0.93,-16.4%
+(financial baseline),Mean Var,5.65,15.79,0.43,0.28,-20.0%
+DDPG,Baseline,18.36,15.79,1.14,1.17,-16.1%
+DDPG,Meta-gradient tuning,18.33,15.39,1.18,1.18,-15.8%
+DDPG,Multi-objective Optuna,18.59,16.48,1.1,1.05,-17.6%
+PPO,Baseline,15.69,17.65,0.95,0.92,-18.6%
+PPO,Meta-gradient tuning,18.96,15.4,1.2,1.27,-15.8%
+PPO,Multi-objective Optuna,20.27,16.32,1.19,1.14,-17.8%
+SAC,Baseline,14.04,16.41,0.87,0.9,-15.9%
+SAC,Meta-gradient tuning,15.51,15.65,0.99,0.94,-16.3%
+SAC,Multi-objective Optuna,20.34,16.24,1.22,1.15,-17.7%
+TD3,Baseline,25.82,17.89,1.38,1.32,-19.7%
+TD3,Meta-gradient tuning,16.41,14.56,1.12,1.12,-15.7%
+TD3,Multi-objective Optuna,14.78,15.42,0.97,0.91,-16.5%

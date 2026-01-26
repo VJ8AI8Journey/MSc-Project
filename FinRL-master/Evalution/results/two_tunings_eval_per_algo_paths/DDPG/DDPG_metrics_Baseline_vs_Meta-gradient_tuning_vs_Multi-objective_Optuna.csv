@@ -1,0 +1,5 @@
+Algorithm,Method,Annual Return,Annual Volatility,Sharpe Ratio,Calmar Ratio,Max Drawdown
+DDPG,Baseline,18.36,15.79,1.14,1.17,-16.1%
+DDPG,DJIA,15.21,14.92,1.02,0.93,-16.4%
+DDPG,Meta-gradient tuning,18.33,15.39,1.18,1.18,-15.8%
+DDPG,Multi-objective Optuna,18.59,16.48,1.1,1.05,-17.6%
